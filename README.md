@@ -12,7 +12,7 @@
 
 5th: Extract "micropython-1.17.zip"
 
-6th: In "micropython-1.17" extract "C_MPy_pyhton.zip"
+6th: Download & extract "C_MPy_pyhton.zip" in "micropython-1.17" 
 
 7th: In "C_MPy_pyhton" run make command after running 3rd command.
 
